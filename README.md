@@ -5,9 +5,9 @@ Analysis of cafe transaction data to uncover sales patterns
 across time, products, and store locations.
 
 ## Key Findings
-- Peak sales hours: 
-- Best performing store: 
-- Top revenue product: 
+- Peak sales hours: 8-10 A.M.
+- Best performing store: Hell's Kitchen
+- Top revenue product: Dark chocolate Lg
 
 ## Tools & Libraries
 - Python 3.x
